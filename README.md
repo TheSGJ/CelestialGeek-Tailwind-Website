@@ -41,4 +41,4 @@ npm run build
 
 
 
--> Demo: Visit this static site at https://celestialgeek.vercelapp
+-> Demo: Visit this static site at https://celestialgeek.vercel.app
