@@ -43,4 +43,6 @@ npm run build
 
 -> Demo: Visit this static site at https://celestialgeek.vercel.app
 
+# License
+
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
