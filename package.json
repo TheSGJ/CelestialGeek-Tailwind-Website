@@ -60,7 +60,7 @@
     "lines-and-columns": "^1.2.4",
     "merge2": "^1.4.1",
     "micromatch": "^4.0.4",
-    "minimatch": "^3.0.4",
+    "minimatch": "^3.0.5",
     "minimist": "^1.2.6",
     "nanoid": "^3.1.31",
     "node-releases": "^2.0.1",
